@@ -1,6 +1,7 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Portfolio.Site" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ContactMe.master.cs" Inherits="Portfolio.ContactMe" %>
 
 <!DOCTYPE html>
+
 
 <html lang="en">
 <head runat="server">
