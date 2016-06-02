@@ -3,26 +3,56 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 <div class="container">
-        <h1>Services Page</h1>
+        <h1>My Services</h1>
+    <div class="row">
+  <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/javalogo.png" alt="...">
+    </a>
+  </div>
+        <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/cpluspluslogo.png" alt="...">
+    </a>
+  </div>
+        <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/pythonlogo.png" alt="...">
+    </a>
+  </div>
+        <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/nodejslogo.png" alt="...">
+    </a>
+  </div>
+        </div>
+    <div class="row">
+        
+        <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/phplogo.png" alt="...">
+    </a>
+  </div>
+         <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/db2logo.png" alt="...">
+    </a>
+  </div>
+         <div class="col-xs-6 col-md-6">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/htmlcssjslogo.png" alt="...">
+    </a>
+  </div>
+       </div>
+    <div class="row">
+            <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="Assets/images/csharplogo.jpg" alt="...">
+    </a>
+  </div>
+    </div>
 
-        Languages: ASP.NET, C#, C/C++, Java, JavaScript, Python, PHP, DB2, PL/SQL, Visual Basic
 
-Web Frameworks: MEAN (MongoDB, Express, AngularJS, Node.js),
-
-Operating Systems: Windows (95, 2000, XP, 7, 8), Linux
-
-Protocols: HTTP, FTP, SMTP
-
-Microcontrollers: Arduino, Atmel
-
-Software: GitHub, Adobe Flash, Eclipse and Netbeans IDE, XAMPP, Webstorm, Sublime,
-
-LAMP (Linux, Apache, MySQL, PHP)
-
-Microsoft Office Suite 2013, Visual Studio, Microsoft Project Management
-
-Business Services
-Agile Development
 
 
     </div> 

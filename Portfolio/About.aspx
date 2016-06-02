@@ -5,42 +5,61 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
         <h1>About Me</h1>
+        <div class="row">
+            <div class="col-sm-5">
+                <img src="Assets/images/collegecoderteam.jpg" class="img-responsive center-block" />
+            </div>
+            <div class="col-sm-7">
+                <h3>Co-Founder of College Coders</h3>
+                <p>
+                    College Coders links young uber talented programming professionals with the local business community to provide a cost effective alternative solution to traditional web development companies. We are so much more then websites.
+                </p>
 
+                <p>College Coders has been one of Barrie’s best start-up success stories, and in the process, is creating a new industry with new opportunities for today’s IT students: student software solutions. 
+                   Founded during Barrie Startup Weekend 2016, we give other college students a chance to pay for their schooling and to secure post-graduation careers. 
+                    That makes College Coders the original student-run software solutions company.
+</p>
 
+            </div>
+        </div>
 
+        <div class="row">
+            
+            <div class="col-sm-7">
 
-        <h3>Co-Founder of College Coders</h3>
-
-
-        <h3>Co-Founder of Vanguard Technologies</h3>
-        <p>
-            At my co-founded company Vanguard Technologies, we harness inexpensive wireless
+                <h3>Co-Founder of Vanguard Technologies</h3>
+                <p>
+                    At my co-founded company Vanguard Technologies, we harness inexpensive wireless
 technology to bring new meaning to be connected. Being the lead programmer, I have worked
 with our team to develop our Wi-Fi integrated Inventory Control System that won the
-Entrepreneurial Award at the Georgian College Innovation Showcase 2015. This year, our team
-and I look forward to bringing a truly built from scratch Laser Projection System usable for
-advertising at Georgian College’s local events. I am very keen on bringing this innovation to
-your company.
+Entrepreneurial Award at the Georgian College Innovation Showcase 2015.
+                </p>
+            </div>
+            <div class="col-sm-5">
+                <img src="Assets/images/vanguardlogo.jpg" class="img-responsive center-block" />
+            </div>
+        </div>
+        <div class="row">
+            
+            <div class="col-sm-5">
+                <img src="Assets/images/scratch.jpg" class="img-responsive center-block" />
+            </div>
+            <div class="col-sm-7">
+
+  <h3>Teaching and Tutoring</h3>
+                <p>
+                    Through coordinating and tutoring over 10 students a week in Java with Georgian College
+Peer Services, I have been able to empower and help other students as a mentor.
         </p>
-
-
-        <h3>Peer Services Tutor</h3>
         <p>
-            Through coordinating and tutoring 10 students a week in Java with Georgian College
-Peer Services, I have been able to empower and help other st
-mentor.
-        </p>
-        <p>
-        Scratch Instructor Hillsdale Elementary School
-        Engaged and taught grade 2’s and 3’s logical thinking
+           I was a Scratch program instructor Hillsdale Elementary School. I engaged and taught grade 2’s and 3’s logical thinking
+while building fun light games as a class using the program Scratch from MIT.
+                </p>
+            </div>
+        </div>
 
-while building fun light games as a class using the
-
-program Scratch
-
-        </p>
         <h3>Innovation Showcase</h3>
-        Research, Innovation and Scholarship Day Most Marketable College Coders 
+       
          January 2015 Entrepreneurial Award, Georgian College Barrie, ON
 December 2014 Entrepreneurial Award, Georgian College Barrie, ON
 Prototyped a Wi-Fi integrated Inventory Control System
